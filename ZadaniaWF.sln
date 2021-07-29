@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Rezystor", "12-Rezystor\12-Rezystor.csproj", "{1B7470A8-27D2-49B3-B2AB-9A1DE1DE3EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7470A8-27D2-49B3-B2AB-9A1DE1DE3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7470A8-27D2-49B3-B2AB-9A1DE1DE3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7470A8-27D2-49B3-B2AB-9A1DE1DE3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7470A8-27D2-49B3-B2AB-9A1DE1DE3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01038C2B-2C35-4AB0-8A1D-484E0A40DC13}
+	EndGlobalSection
+EndGlobal
