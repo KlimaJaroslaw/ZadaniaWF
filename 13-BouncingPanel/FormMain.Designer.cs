@@ -40,7 +40,7 @@ namespace _13_BouncingPanel
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(314, 176);
+            this.panel1.Location = new System.Drawing.Point(299, 150);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(90, 90);
             this.panel1.TabIndex = 0;
@@ -51,28 +51,28 @@ namespace _13_BouncingPanel
             // 
             // panel2
             // 
-            this.panel2.Location = new System.Drawing.Point(177, 124);
+            this.panel2.Location = new System.Drawing.Point(311, 162);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(90, 90);
             this.panel2.TabIndex = 1;
             // 
             // panel3
             // 
-            this.panel3.Location = new System.Drawing.Point(472, 104);
+            this.panel3.Location = new System.Drawing.Point(308, 159);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(90, 90);
             this.panel3.TabIndex = 2;
             // 
             // panel4
             // 
-            this.panel4.Location = new System.Drawing.Point(373, 312);
+            this.panel4.Location = new System.Drawing.Point(305, 156);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(90, 90);
             this.panel4.TabIndex = 1;
             // 
             // panel5
             // 
-            this.panel5.Location = new System.Drawing.Point(215, 289);
+            this.panel5.Location = new System.Drawing.Point(302, 150);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(90, 90);
             this.panel5.TabIndex = 1;
