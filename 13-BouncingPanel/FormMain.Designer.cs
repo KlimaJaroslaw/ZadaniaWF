@@ -47,7 +47,6 @@ namespace _13_BouncingPanel
             // 
             // timer
             // 
-            this.timer.Interval = 150;
             this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
             // panel2
